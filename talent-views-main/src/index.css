@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  background: black;
+  font-family: 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Helvetica Neue';
+}
+
+a {
+  text-decoration: none;
+  color: wheat;
+  transition: 0.4s;
+}
+
+a:hover {
+  color: #ff7e00;
+  transition: 0.4s
+}
